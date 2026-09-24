@@ -10,3 +10,4 @@ build/
 uploads/
 *.log
 backend/ragforge.db
+backend/ragforge.db
